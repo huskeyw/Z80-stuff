@@ -1,0 +1,10 @@
+This is my place, and maybe other who want, to add files useful in testing out Z80 computer projects. right now I am working on two
+the Z80-mbc/2 and the rc2014
+<add more as it expands>
+
+
+
+
+Files
+StarTrek > this is the basic game startrek with two changes: this was meant to upload strait to basic with out CPM..
+so I added the instrcutions to the end with a goto and fixed lines too long to paste in the terminal. 
