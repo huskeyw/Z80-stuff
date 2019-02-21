@@ -1,0 +1,4 @@
+10 a = INT(RND(1)*2)+1
+20 IF a>1 THEN print CHR$(47);
+30 IF a<= 1 THEN print CHR$(92);
+40 goto 10
