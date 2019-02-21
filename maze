@@ -1,3 +1,6 @@
+REM **************** 
+REM this is the z80 serial verion of 10 PRINT CHR$(244.5+RND(1));:GOTO 10
+REM ASCII char are diffrent than PETASCII the Commadore computers used.. maybe changing in the terminal works.. 
 10 a = INT(RND(1)*2)+1
 20 IF a>1 THEN print CHR$(47);
 30 IF a<= 1 THEN print CHR$(92);
